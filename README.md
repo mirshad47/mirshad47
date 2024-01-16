@@ -2,9 +2,11 @@
 #### Web developer 
 ![Web developer ](https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/346659398_1487964974942828_1722593860034120454_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHZHe5dMTtLz_v17rRLZ3dA_XAeE4TuB_b9cB4ThO4H9mGW4YfCgYrJwcZ8PW2-fNP5JRK3TzEEPrMfSq2lX4y4&_nc_ohc=LUz97lPIrksAX_FfEhj&_nc_ht=scontent.fdac148-1.fna&oh=00_AfD8iOVG8la0lJKuLlFHWu3memrcjJ8jjSeiC-GNmMbHew&oe=647672FF)
 
-I'm a web developer who is passionate about creating beautiful and functional websites.  skilled in HTML, CSS, and JavaScript Etc, I'm always up-to-date on the latest web development trends. i'm also a creative thinker who is always looking for new ways to improve the user experience.
+I'm a web developer who is passionate about creating aesthetically pleasing and functional websites.  skilled in Bootstrap, Tailwind, JavaScript, React.js, and Next.js Etc, I'm always up-to-date on the latest web development trends. I approach each day as an opportunity to learn new things and then harmonize my skills with the ever-evolving flow of web development trends. Also, I let my
+creative-thinking-brain-neurons to discover new methods to enhance the user experience.
 
-i'm also enjoying the challenge of working on a variety of projects, a team player who is always willing to help others, and always willing to learn new things.
+
+I'm also enjoying the challenge of working on various projects, a team player who is always willing to help others, and always willing to learn new things.
 
 Skills:  HTML / CSS /  Bootstrap/ Tailwind CSS/ Sass/ Git/  JavaScript / REACT.js / NODE.JS 
 
