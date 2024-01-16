@@ -10,7 +10,6 @@ I'm also enjoying the challenge of working on various projects, a team player wh
 
 Skills:  HTML / CSS /  Bootstrap/ Tailwind CSS/ Sass/ Git/  JavaScript / REACT.js / NODE.JS 
 
-- 🌱 I’m currently learning JavaScript 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirshad47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mirshad-rahman-86b37a241//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/samir.rahman.37017/)  
